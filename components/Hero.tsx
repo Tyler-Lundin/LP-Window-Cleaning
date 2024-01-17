@@ -4,7 +4,7 @@ export default function Hero() {
 
   return (
     <section className="flex flex-col items-center justify-center relative w-screen h-screen top-0 left-0">
-      <video src={require("../assets/hero.mp4")} className="w-screen h-screen object-cover absolute top-0 left-0 -z-10" autoPlay muted loop />
+      <video src={"https://v3.cdnpk.net/videvo_files/video/free/video0478/large_preview/_import_626cc5c53caad1.63954231.mp4"} className="w-screen h-screen object-cover absolute top-0 left-0 -z-10" autoPlay muted loop />
       <div className="flex flex-col items-center justify-center gap-4 absolute top-0 left-0 w-screen h-screen bg-gradient-to-r from-white via-white/40 to-transparent dark:from-black dark:via-black/50 dark:to-transparent z-10">
         <span className="grid text-center">
           <h1 className="font-black uppercase text-6xl"> WINDOW CLEANING </h1>
